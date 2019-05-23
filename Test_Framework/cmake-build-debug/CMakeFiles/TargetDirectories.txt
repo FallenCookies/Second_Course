@@ -1,0 +1,3 @@
+C:/Users/vlad/CLionProjects/Test_Framework/cmake-build-debug/CMakeFiles/Test_Framework.dir
+C:/Users/vlad/CLionProjects/Test_Framework/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlad/CLionProjects/Test_Framework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

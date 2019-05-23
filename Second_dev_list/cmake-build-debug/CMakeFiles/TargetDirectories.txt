@@ -1,0 +1,3 @@
+C:/Users/vlad/CLionProjects/Second_dev_list/cmake-build-debug/CMakeFiles/Second_dev_list.dir
+C:/Users/vlad/CLionProjects/Second_dev_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlad/CLionProjects/Second_dev_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

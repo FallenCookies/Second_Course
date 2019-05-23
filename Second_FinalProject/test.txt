@@ -1,0 +1,26 @@
+Add 2017-06-01 1st of June
+Del date==2017-06-01
+Add 2017-07-08 Someone's birthday
+Last 2017-08-08
+Add 2017-07-01 Someone's birthday1
+Last 2017-08-08
+Add 2017-07-02 Someone's birthday12
+Last 2017-08-08
+Add 2017-07-03 Someone's birthday123
+Last 2017-08-08
+Add 2017-07-04 Someone's birthday1234
+Last 2017-08-08
+Add 2017-07-05 Someone's birthday12345
+Last 2017-08-08
+Add 2017-07-06 Someone's birthday123456
+Last 2017-01-08
+Last 2016-01-08
+Last 2018-01-08
+
+Del
+
+Print
+
+Last 2018-01-08
+
+Print

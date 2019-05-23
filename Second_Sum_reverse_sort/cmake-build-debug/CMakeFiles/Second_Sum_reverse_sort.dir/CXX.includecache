@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vlad/CLionProjects/Second_Sum_reverse_sort/main.cpp
+iostream
+-
+sum_reverse_sort.h
+C:/Users/vlad/CLionProjects/Second_Sum_reverse_sort/sum_reverse_sort.h
+
+C:/Users/vlad/CLionProjects/Second_Sum_reverse_sort/sum_reverse_sort.cpp
+sum_reverse_sort.h
+C:/Users/vlad/CLionProjects/Second_Sum_reverse_sort/sum_reverse_sort.h
+
+C:/Users/vlad/CLionProjects/Second_Sum_reverse_sort/sum_reverse_sort.h
+string
+-
+vector
+-
+

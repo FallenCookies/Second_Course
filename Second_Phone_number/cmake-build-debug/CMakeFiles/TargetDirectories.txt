@@ -1,0 +1,3 @@
+C:/Users/vlad/CLionProjects/Second_Phone_number/cmake-build-debug/CMakeFiles/Phone_number.dir
+C:/Users/vlad/CLionProjects/Second_Phone_number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlad/CLionProjects/Second_Phone_number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

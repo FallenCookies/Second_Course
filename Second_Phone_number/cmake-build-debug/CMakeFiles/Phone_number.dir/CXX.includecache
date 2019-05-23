@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vlad/CLionProjects/Second_Phone_number/main.cpp
+iostream
+-
+phone_number.h
+C:/Users/vlad/CLionProjects/Second_Phone_number/phone_number.h
+test_runner.h
+C:/Users/vlad/CLionProjects/Second_Phone_number/test_runner.h
+
+C:/Users/vlad/CLionProjects/Second_Phone_number/phone_number.cpp
+phone_number.h
+C:/Users/vlad/CLionProjects/Second_Phone_number/phone_number.h
+iostream
+-
+sstream
+-
+
+C:/Users/vlad/CLionProjects/Second_Phone_number/phone_number.h
+string
+-
+
+C:/Users/vlad/CLionProjects/Second_Phone_number/test_runner.h
+vector
+-
+set
+-
+map
+-
+iostream
+-
+sstream
+-
+

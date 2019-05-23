@@ -1,0 +1,3 @@
+C:/Users/vlad/CLionProjects/Second_FindGreaterElements/cmake-build-debug/CMakeFiles/Second_FindGreaterElements.dir
+C:/Users/vlad/CLionProjects/Second_FindGreaterElements/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlad/CLionProjects/Second_FindGreaterElements/cmake-build-debug/CMakeFiles/rebuild_cache.dir
